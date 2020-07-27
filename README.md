@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=onepiece010938&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onepiece010938)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/onepiece010938/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onepiece010938&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=onepiece010938&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/onepiece010938/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=onepiece010938&repo=convoychat" />
+<a href="https://github.com/onepiece010938/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepiece010938" />
 </a>
